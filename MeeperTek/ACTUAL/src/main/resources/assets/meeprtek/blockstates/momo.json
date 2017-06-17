@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "normal": { "model": "meeprtek:momo" },
+        "facing=down": { "model": "meeprtek:momo" }
+        "facing=up": { "model": "meeprtek:momo" }
+        "facing=east": { "model": "meeprtek:momo" }
+        "facing=west": { "model": "meeprtek:momo" }
+        "facing=north": { "model": "meeprtek:momo" }
+        "facing=south": { "model": "meeprtek:momo" }
+    }
+}
